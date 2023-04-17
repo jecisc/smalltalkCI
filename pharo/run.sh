@@ -21,6 +21,9 @@ pharo::get_image_url() {
     "Pharo64-stable")
       echo "get.pharo.org/64/stable"
       ;;
+    "Pharo64-12")
+      echo "get.pharo.org/64/120"
+      ;;
     "Pharo64-11")
       echo "get.pharo.org/64/110"
       ;;
